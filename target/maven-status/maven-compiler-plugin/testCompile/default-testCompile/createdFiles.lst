@@ -1,0 +1,8 @@
+RunCucumberTest.class
+config\Config.class
+endpoints\ImgurBaseEndpoints.class
+IsItFriday.class
+endpoints\ImgurEndpoints.class
+StepDefinitions.class
+StepsForAddImage.class
+StepsForFindUser.class
